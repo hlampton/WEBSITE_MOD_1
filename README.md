@@ -8,8 +8,6 @@ Added a structure to the html and css files
 
 switched div to header to identify content most related to title
 
-changed image name to meetingImage
-
 added main tag to identify the main content of the page
 
 added footer tag to identify the section that contains footer information
