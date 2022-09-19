@@ -5,6 +5,7 @@ Added a structure to the website.
 - main content
 - extra content
 - footer
+
 switched div to header to identify content most related to title
 
 changed image name to meetingImage
