@@ -1,6 +1,6 @@
 # WEBSITE_MOD_1
 
-Added a structure to the website.
+Added a structure to the html
 - header 
 - main content
 - extra content
