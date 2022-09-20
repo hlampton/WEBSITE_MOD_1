@@ -23,4 +23,4 @@ changed "benefit" classes to ID
 
 then updated online-reputation-management and social-media-marketing class from class to id in css
 
-then simplied/condensed rules in css
+then simplfied/condensed rules in css
